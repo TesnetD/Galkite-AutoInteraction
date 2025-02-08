@@ -24,7 +24,7 @@ async function main() {
     maxLength: '0',
   });
 
-  console.log(chalk.green("=== Telegram Channel : NT Exhaust ( @NTExhaust ) ===\n"));
+  console.log(chalk.green("=== Telegram Channel : END AIRDROP ( https://t.me/endingdrop ) ===\n"));
 
   const numberOfInteractions = await askQuestion(chalk.yellow("Enter the number of interactions: "));
 

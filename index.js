@@ -13,7 +13,7 @@ function askQuestion(query) {
 }
 
 async function main() {
-  cfonts.say('NT Exhaust', {
+  cfonts.say('END AIRDROP', {
     font: 'block',
     align: 'center',
     colors: ['cyan', 'magenta'],
